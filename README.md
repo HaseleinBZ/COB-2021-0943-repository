@@ -1,4 +1,4 @@
-# COB-2021-0943-repo
+# COB-2021-0943-repository
 
 ## Authors
 Vinícius Conti da Costa { vinicius.costa@labmetro.ufsc.br }
